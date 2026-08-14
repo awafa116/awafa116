@@ -1,5 +1,5 @@
 <div style="border-bottom: 1px solid rgba(128, 128, 128, 0.4); padding: 5px; margin-bottom: -0.6em">
-<h2 style="border-bottom: 0; margin-bottom: 0.1em;" align="center">Hi, I'm Mustafa 👋</h2>
+<h3 style="border-bottom: 0; margin-bottom: 0.1em;" align="center">Hi, I'm Mustafa 👋</h3>
 <p style="opacity:0.8;"align="center">I Talk to Data and Generate Decisions.</p>
 </div>
 <br/>
