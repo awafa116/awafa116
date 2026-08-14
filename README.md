@@ -1,26 +1,27 @@
-<div style="border-bottom: 1px solid rgba(128, 128, 128, 0.4); padding: 5px; margin-bottom: -0.6em">
 <h3 style="border-bottom: 0; margin-bottom: 0.1em;" align="center">Hi, I'm Mustafa 👋</h3>
 <p style="opacity:0.8;"align="center">I Talk to Data and Generate Decisions.</p>
-</div>
-<br/>
-<p>I hold a Master's of Data Analytics and a Bachelor in Computer Science. Passionate about using data to solve real-world problems and extracting insights. I utilize advanced analytical, statistical, and predictive methods to support data-driven decision-making.</p>
 
-<h3>My Go-To Tools:</h3>
-<kbd>Python</kbd>
-<kbd>SQL</kbd>
-<kbd>Pandas</kbd>
-<kbd>Numby</kbd>
-<kbd>Seaborn</kbd>
-<kbd>Plotly</kbd>
-<kbd>Excel</kbd>
-<kbd>PowerBI</kbd>
-<kbd>Tableau</kbd>
-<kbd>Tensorflow</kbd>
-<kbd>HuggingFace</kbd>
-<kbd>Sk-Learn</kbd>
-<kbd>Apache Spark</kbd>
+---
 
-<h3>Featured Projects</h3>
+<p>I hold a Master's in Data Analytics and a Bachelor in Computer Science. Passionate about using data to solve real-world problems and extracting insights. I utilize advanced analytical, statistical, and predictive methods to support data-driven decision-making.</p>
+
+<h4>My Go-To Tools:</h4>
+
+![Static Badge](https://img.shields.io/badge/Python-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/SQL-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Pandas-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Numby-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Seaborn-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Plotly-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Excel-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/PowerBI-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Tableau-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Tensorflow-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/HuggingFace-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Sk-Learn-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Apache Spark-6e7781?style=for-the-badge&logoSize=10)
+
+<h4>Featured Projects</h4>
 <div class="projects-container">
   <div class="project">
     <h4 class="title">Weather-Sensitive Demand Forecasting & Workforce Optimization: Ontario Retail Sector</h4>
