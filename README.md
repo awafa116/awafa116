@@ -6,7 +6,11 @@
 <p>I hold a Master's of Data Analytics and a Bachelor in Computer Science. Passionate about using data to solve real-world problems and extracting insights. I utilize advanced analytical, statistical, and predictive methods to support data-driven decision-making.</p>
 
 <h3>My Go-To Tools:</h3>
-  <kbd >Python</kbd>
+<kbd >Python</kbd>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat)
   <li class="item" >SQL</li>
   <li class="item" >Pandas</li>
   <li class="item" >Numby</li>
