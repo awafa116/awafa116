@@ -1,5 +1,10 @@
 <h3 align="center">Hi, I'm Mustafa 👋</h3>
 <p align="center">I Talk to Data and Generate Decisions.</p>
+<p align="center">
+  <a href="https://linkedin.com/in/mustafaabdulmegid" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://github.com/username">GitHub</a>
+</p>
 
 ---
 
