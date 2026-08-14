@@ -6,8 +6,7 @@
 <p>I hold a Master's of Data Analytics and a Bachelor in Computer Science. Passionate about using data to solve real-world problems and extracting insights. I utilize advanced analytical, statistical, and predictive methods to support data-driven decision-making.</p>
 
 <h3>My Go-To Tools:</h3>
-<ul class="items-grid">
-  <li class="item" >Python</li>
+  <kbd >Python</kbd>
   <li class="item" >SQL</li>
   <li class="item" >Pandas</li>
   <li class="item" >Numby</li>
@@ -20,7 +19,6 @@
   <li class="item" >HuggingFace</li>
   <li class="item" >SK-Learn</li>
   <li class="item" >Apache Spark</li>
-</ul>
 
 <h3>Featured Projects</h3>
 <div class="projects-container">
