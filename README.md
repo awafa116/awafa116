@@ -3,9 +3,9 @@
 
 ---
 
-<p>I hold a Master's in Data Analytics and a Bachelor in Computer Science. Passionate about using data to solve real-world problems and extracting insights. I utilize advanced analytical, statistical, and predictive methods to support data-driven decision-making.</p>
+<p>I hold a Master's in Data Analytics and a Bachelor in Computer Science. Passionate about using data to solve real-world problems and extract actionable insights. I utilize advanced analytical, statistical, and predictive methods to support data-driven decision-making.</p>
 
-<h4>My Go-To Tools:</h4>
+<h4>The Tools I Use:</h4>
 
 ![Static Badge](https://img.shields.io/badge/Python-6e7781?style=for-the-badge&logoSize=10)
 ![Static Badge](https://img.shields.io/badge/SQL-6e7781?style=for-the-badge&logoSize=10)
@@ -20,6 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/HuggingFace-6e7781?style=for-the-badge&logoSize=10)
 ![Static Badge](https://img.shields.io/badge/Sk--Learn-6e7781?style=for-the-badge&logoSize=10)
 ![Static Badge](https://img.shields.io/badge/Apache_Spark-6e7781?style=for-the-badge&logoSize=10)
+![Static Badge](https://img.shields.io/badge/Databricks-6e7781?style=for-the-badge&logoSize=10)
 
 
 <!--
