@@ -22,6 +22,7 @@
 ![Static Badge](https://img.shields.io/badge/Apache_Spark-6e7781?style=for-the-badge&logoSize=10)
 
 
+<!--
 
 <h4>Featured Projects</h4>
 
@@ -43,9 +44,10 @@ incorporating daily weather conditions into retail demand forecasting
 and staffing decisions.
 </p>
 
-[Open Project -->](https://github.com/awafa116)
+[Open Project - ->](https://github.com/awafa116)
 
 <br/>
+
 </td>
 
 <td width="50%" valign="top">
@@ -64,7 +66,7 @@ incorporating daily weather conditions into retail demand forecasting
 and staffing decisions.
 </p>
 
-[Open Project -->](https://github.com/awafa116)
+[Open Project - ->](https://github.com/awafa116)
 
 <br/>
 </td>
@@ -87,7 +89,7 @@ incorporating daily weather conditions into retail demand forecasting
 and staffing decisions.
 </p>
 
-[Open Project -->](https://github.com/awafa116)
+[Open Project - ->](https://github.com/awafa116)
 
 <br/>
 </td>
@@ -108,10 +110,11 @@ incorporating daily weather conditions into retail demand forecasting
 and staffing decisions.
 </p>
 
-<a>[Open Project -->](https://github.com/awafa116)
+<a>[Open Project - ->](https://github.com/awafa116)
 
 <br/>
 </td>
 </tr>
 </table>
 
+-->
