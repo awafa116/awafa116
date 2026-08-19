@@ -31,7 +31,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h4>Weather-Sensitive Demand Forecasting & Workforce Optimization</h4>
+<h4>Weather-Based Demand Forecasting & Workforce Optimization</h4>
 
 <kbd>Data Wrangling</kbd>
 <kbd>Linear Programming</kbd>
