@@ -45,7 +45,7 @@ incorporating daily weather conditions into retail demand forecasting
 and staffing decisions.
 </p>
 
-[Open Project - ->](https://github.com/awafa116)
+[Open Project - ->](https://github.com/awafa116/weather_based_demand_forecasting_and_workforce_optimization)
 
 <br/>
 
