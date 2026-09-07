@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Mustafa 👋</h3>
-<p align="center">I Talk to Data and Generate Decisions.</p>
+<p align="center">I turn raw data into actionable decisions.</p>
 
 ---
 
