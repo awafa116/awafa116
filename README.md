@@ -23,7 +23,7 @@
 ![Static Badge](https://img.shields.io/badge/Databricks-6e7781?style=for-the-badge&logoSize=10)
 
 
-<!--
+
 
 <h4>Featured Projects</h4>
 
@@ -45,12 +45,16 @@ incorporating daily weather conditions into retail demand forecasting
 and staffing decisions.
 </p>
 
-[Open Project - ->](https://github.com/awafa116/weather_based_demand_forecasting_and_workforce_optimization)
+[Open Project -->](https://github.com/awafa116/weather_based_demand_forecasting_and_workforce_optimization)
 
 <br/>
-
 </td>
 
+<td align="center"> Working on more projects ... </td>
+
+</tr>  <!-- move this to the end when add more projects -->
+
+<!--
 <td width="50%" valign="top">
 
 <h4>Weather-Sensitive Demand Forecasting & Workforce Optimization</h4>
